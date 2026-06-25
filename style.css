@@ -1,0 +1,17 @@
+body{
+    margin:0;
+    font-family:Arial;
+}
+
+nav{
+    display:flex;
+    justify-content:space-between;
+    padding:20px;
+    background:orange;
+}
+
+ul{
+    display:flex;
+    gap:20px;
+    list-style:none;
+}
