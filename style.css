@@ -42,3 +42,17 @@ h1{
     width:200px;
     border-radius:10px;
 }
+.card:hover{
+    transform:scale(1.05);
+}
+input{
+    padding:12px;
+    width:300px;
+    border-radius:5px;
+}
+footer{
+    background:orange;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
