@@ -15,3 +15,18 @@ ul{
     gap:20px;
     list-style:none;
 }
+h1{
+    color:white;
+}
+.categories{
+    display:flex;
+    gap:20px;
+    padding:30px;
+}
+
+.food{
+    background:orange;
+    color:white;
+    padding:20px;
+    border-radius:10px;
+}
