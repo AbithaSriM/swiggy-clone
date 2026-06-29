@@ -1,6 +1,11 @@
 body{
-    margin:0;
     font-family:Arial;
+}
+li{
+    margin:10px;
+}
+li:last-child{
+    font -weight:bold;
 }
 
 nav{
